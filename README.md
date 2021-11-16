@@ -45,7 +45,7 @@ Fill the database by random data by running the following command
 Install the required packages
     by running command 'composer install' in root project directory</li>
 <li>
-Edit .env.test file with <br> 
+Edit .env.test.local file with <br> 
 a- Database connection string <br>
 b- Front end server ip that use in cros allow orgin
 </li>
